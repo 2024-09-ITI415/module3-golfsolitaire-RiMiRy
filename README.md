@@ -1,1 +1,2 @@
-# module3-golfsolitaire-RiMiRy
+# module3-golfsolitaire-MiRiRy
+ Golf Solitaire Group Project
